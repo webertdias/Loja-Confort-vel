@@ -1,0 +1,42 @@
+header h1{
+    position: relative;
+    display: grid;
+    text-align: center;
+    margin: 30px 40px;
+    font-style: italic;
+    font-size: 40px;
+}
+
+header h2{
+    position: relative;
+    display: inline-block;
+    top: -20px;
+    left: 150px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+body h3{
+    position: relative;
+    display: inline-block;
+    top: 200px;
+    left: 150px;
+    font-size: 65px;
+    font-style: italic;
+}
+
+body p{
+    position: relative;
+    display: inline;
+    top: 250px;
+    left: -740px;
+    font-size: 30px;
+}
+
+button{
+    position: relative;
+    display: inline;
+    top: 300px;
+    left: -1180px;
+    border-radius: 4px;
+}
